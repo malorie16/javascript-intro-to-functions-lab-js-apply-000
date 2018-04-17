@@ -13,3 +13,15 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
+
+function sayHiToGrandma(string) {
+  return string.toLowerCase."I can't hear you!"()
+}
+
+function sayHiToGrandma(string) {
+  return string.toUpperCase."YES INDEED!"()
+}
+
+function sayHiToGrandma("I love you, too.") {
+  return "I love you, too"."I love you, Grandma."()
+}
